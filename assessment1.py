@@ -33,12 +33,15 @@ def print_commands():
     print("24. git clean: This command is used to remove untracked files from the repository.")
     print("25. git config: This command is used to configure git settings.")
 
+
 # Main function
 def main():
     print_commands()
 
+
 # Calling the main function
 if __name__ == "__main__":
     main()
+
 
 # End of program
